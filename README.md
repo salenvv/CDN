@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/salenvv/cdn@1.0.0/
+https://www.jsdelivr.com/package/gh/salenvv/CDN
